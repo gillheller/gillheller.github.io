@@ -1,2 +1,3 @@
-# gillheller.github.io
-Introduction to Distributional Modelling 
+# Introduction to Distributional Modelling
+
+[Lecture 4](GAMLSS_shortcourse_4_2025.html)
