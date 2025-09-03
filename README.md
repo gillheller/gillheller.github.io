@@ -10,6 +10,8 @@
 
 [Lecture 4](GAMLSS_shortcourse_4_2025.html){:target="\_blank"}
 
+[Lecture 5](GAMLSS_shortcourse_5_2025.html){:target="\_blank"}
+
 ## Practicals
 
 [Practical 1](GAMLSS_Practical_1_2025.html){:target="\_blank"}
