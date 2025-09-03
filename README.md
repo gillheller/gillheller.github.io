@@ -15,3 +15,7 @@
 [Practical 1](GAMLSS_Practical_1_2025.html){:target="\_blank"}
 
 [Practical 2](GAMLSS_Practical_2_2025.html){:target="\_blank"}
+
+## Other resources
+
+Code for GAMLSS book 3: <https://gamlssbook.bitbucket.io/>{:target="\_blank"}
