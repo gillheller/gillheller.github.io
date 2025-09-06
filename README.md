@@ -18,6 +18,10 @@
 
 [Practical 2](GAMLSS_Practical_2_2025.html){:target="\_blank"}
 
+[Practical 3](GAMLSS_Practical_3_2025.html){:target="\_blank"}
+
 ## Other resources
 
 Code for GAMLSS book 3: <https://gamlssbook.bitbucket.io/>{:target="\_blank"}
+
+[Reference guide for distributions](ReferenceGuide.pdf)
