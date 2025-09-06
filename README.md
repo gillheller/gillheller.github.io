@@ -24,4 +24,4 @@
 
 Code for GAMLSS book 3: <https://gamlssbook.bitbucket.io/>{:target="\_blank"}
 
-[Reference guide for distributions](ReferenceGuide.pdf)
+[Reference guide for distributions](ReferenceGuide.pdf){:target="_blank"}
